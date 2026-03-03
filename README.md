@@ -1,6 +1,8 @@
 # leetcode-solutions
 LeetCode Solution Repo
 
+* **303. Range Sum Query - Immutable**: ``Array: Prefix Sum Technique`` https://leetcode.com/problems/range-sum-query-immutable/description/
+
 ## 3. Recursion:
 * **509. Fibonacci Number**: https://leetcode.com/problems/fibonacci-number/description/
 
