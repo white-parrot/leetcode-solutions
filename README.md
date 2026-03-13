@@ -12,4 +12,4 @@ LeetCode Solution Repo
 * **002. Longest Consecutive Sequence**: https://leetcode.com/problems/longest-consecutive-sequence/description/
 
 ## X. Maths Trick:
-* **326. Power of Three**: https://leetcode.com/problems/power-of-three/description.
+* **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
