@@ -11,5 +11,10 @@ LeetCode Solution Repo
 * **001. Two Sum**: https://leetcode.com/problems/two-sum/description/
 * **002. Longest Consecutive Sequence**: https://leetcode.com/problems/longest-consecutive-sequence/description/
 
+
+## 4. Binary Search:
+* **441. Arranging Coins**: https://leetcode.com/problems/two-sum/description/
+
+  
 ## X. Maths Trick:
 * **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
