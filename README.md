@@ -12,7 +12,7 @@ LeetCode Solution Repo
 * **002. Longest Consecutive Sequence**: https://leetcode.com/problems/longest-consecutive-sequence/description/
 
 
-## 4. Binary Search:
+## 5. Binary Search:
 * **441. Arranging Coins**: https://leetcode.com/problems/two-sum/description/
 
   
