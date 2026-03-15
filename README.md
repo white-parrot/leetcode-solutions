@@ -19,7 +19,7 @@ LeetCode Solution Repo
 * **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
 
 ## 7. Quick Sort
-* **75. Sort Colors**: https://leetcode.com/problems/sort-colors/description/
+* **75. Sort Colors**: ``2nd Approach: three pointer`` https://leetcode.com/problems/sort-colors/description/
 
 ## Count Track :
 1. **303. Range Sum Query - Immutable**: ``Array`` ``Prefix Sum Technique`` https://leetcode.com/problems/range-sum-query-immutable/description/
