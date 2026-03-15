@@ -18,6 +18,8 @@ LeetCode Solution Repo
 ## 6. Two Pointer Approach
 * **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
 
+## 7. Quick Sort
+* **75. Sort Colors**: https://leetcode.com/problems/sort-colors/description/
   
 ## X. Maths Trick:
 * **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
