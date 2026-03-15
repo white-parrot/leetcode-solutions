@@ -15,6 +15,9 @@ LeetCode Solution Repo
 ## 5. Binary Search:
 * **441. Arranging Coins**: https://leetcode.com/problems/two-sum/description/
 
+## 6. Two Pointer Approach
+* **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
+
   
 ## X. Maths Trick:
 * **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
