@@ -31,7 +31,6 @@ LeetCode Solution Repo
 7. **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
 8. **75. Sort Colors**: https://leetcode.com/problems/sort-colors/description/
 9. **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
-10. 
 
   
 ## X. Maths Trick:
