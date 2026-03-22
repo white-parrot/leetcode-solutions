@@ -14,6 +14,8 @@ LeetCode Solution Repo
 
 ## 5. Binary Search:
 * **441. Arranging Coins**: https://leetcode.com/problems/two-sum/description/
+## 6. Binary Search on Answer:
+* **540. Single Element in a Sorted Array**: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
 ## 6. Two Pointer Approach
 * **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
@@ -31,6 +33,7 @@ LeetCode Solution Repo
 7. **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
 8. **75. Sort Colors**: https://leetcode.com/problems/sort-colors/description/
 9. **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
+10. **540. Single Element in a Sorted Array**: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
   
 ## X. Maths Trick:
