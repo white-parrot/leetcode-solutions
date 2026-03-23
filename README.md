@@ -16,6 +16,7 @@ LeetCode Solution Repo
 * **441. Arranging Coins**: https://leetcode.com/problems/two-sum/description/
 ## 6. Binary Search on Answer:
 * **540. Single Element in a Sorted Array**: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+* **875. Koko Eating Bananas**: https://leetcode.com/problems/koko-eating-bananas/description/
 
 ## 6. Two Pointer Approach
 * **283. Move Zeroes**: https://leetcode.com/problems/move-zeroes/description/
