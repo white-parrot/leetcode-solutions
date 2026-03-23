@@ -35,6 +35,7 @@ LeetCode Solution Repo
 8. **75. Sort Colors**: https://leetcode.com/problems/sort-colors/description/
 9. **326. Power of Three**: https://leetcode.com/problems/power-of-three/description
 10. **540. Single Element in a Sorted Array**: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+11. **875. Koko Eating Bananas**: https://leetcode.com/problems/koko-eating-bananas/description/
 
   
 ## X. Maths Trick:
