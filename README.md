@@ -1,5 +1,5 @@
 # leetcode-solutions
-LeetCode Solution Repo
+LeetCode Solution Repository
 
 ## 1. Arrays Technique:
 * **303. Range Sum Query - Immutable**: ``Prefix Sum Technique`` https://leetcode.com/problems/range-sum-query-immutable/description/
